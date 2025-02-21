@@ -10,11 +10,6 @@ A simple tool for scraping and testing proxy lists. Built for the *PrivatePacket
 ## Output
 Spits out a list of free proxies. Warning: They’re usually slow, unreliable, or dead. For serious proxy action, check my go-to providers below.
 
-## Recommended Proxy Providers
-Free proxies are a gamble. I’ve tested these premium ones for real cybersecurity work:
-- [BrightData](https://privatepackets.net/go/brightdata) – Insane pool, great for scraping.
-- [IPRoyal](https://privatepackets.net/go/iproyal) – Cheap and solid for VPN/proxy combos.
-
 ## Contribute
 Fork it, tweak it, PR it—I don’t care. Let’s make this useful.
 
