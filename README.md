@@ -8,10 +8,19 @@ A simple tool for scraping and testing proxy lists. Built for the *PrivatePacket
 4. Run `python proxyscraper.py`.
 
 ## Output
-Spits out a list of free proxies. Warning: They’re usually slow, unreliable, or dead. For serious proxy action, check my go-to providers below.
+Scrapes a list of free proxies and tests if they’re alive. Spoiler: Most are slow, dead, or garbage. For real proxy action, see my recommended providers below.
+
+## Recommended Proxy Providers
+Free proxies are a crapshoot. I’ve tested these premium ones for serious cybersecurity work:
+- [BrightData](https://privatepackets.club/go/brightdata) – Huge pool, great for scraping.
+- [IPRoyal](https://privatepackets.club/go/iproyal) – Affordable and reliable for proxy/VPN needs.
+
+## Changelog
+- **v1.1 (Feb 2025)**: Added proxy testing—now you can see which ones are DOA. (Spoiler: Most.)
+- **v1.0**: Basic scraper—got the ball rolling.
 
 ## Contribute
-Fork it, tweak it, PR it—I don’t care. Let’s make this useful.
+Fork it, tweak it, send a PR—I’m open. Let’s make this semi-useful.
 
 ## Shoutout
-Made for *PrivatePackets*—join us at r/PrivatePackets for proxy, VPN, and cybersecurity talk.
+Made for *PrivatePackets*—join us at r/PrivatePackets for proxy, VPN, and cybersecurity vibes.
