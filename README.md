@@ -16,8 +16,9 @@ Free proxies are a crapshoot. I’ve tested these premium ones for serious cyber
 - [IPRoyal](https://privatepackets.club/go/iproyal) – Affordable and reliable for proxy/VPN needs.
 
 ## Changelog
-- **v1.1 (Feb 2025)**: Added proxy testing—now you can see which ones are DOA. (Spoiler: Most.)
-- **v1.0**: Basic scraper—got the ball rolling.
+- **v1.2 (Feb 2025)**: Added proxy type detection, file export, and top 3 speed rankings. Free proxies still a shitshow.
+- **v1.1**: Proxy testing—DOA checks.
+- **v1.0**: Basic scraper.
 
 ## Contribute
 Fork it, tweak it, send a PR—I’m open. Let’s make this semi-useful.
